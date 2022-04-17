@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Leobin‘s Blog
+title: Leobin's Blog
 theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
@@ -45,7 +45,7 @@ params:
   # Author biography
   bio: 😛
   # Site Description, used in HTML meat
-  description: Leobin
+  description: 
 
 
   ###########################################
