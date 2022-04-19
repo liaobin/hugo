@@ -2,6 +2,9 @@
 很高兴和你们互换友链，如果有意换链，麻烦先添加我的链接到你的博客上😜~
 
 联系方式📧 i@leob.in
+> 名称：Leobin's Blog
+链接：https://leob.in
+图片：https://www.emojiall.com/images/240/twitter/1f4a9.png
 
 - [vian](https://vian.top/ "vian")
 
