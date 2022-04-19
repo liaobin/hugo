@@ -12,6 +12,9 @@ subscribe:
 
 about:
   other: 关于
+  
+friends:
+  other: 友链
 
 404title:
   other: "404"
