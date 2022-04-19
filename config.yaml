@@ -6,6 +6,7 @@ theme: hugo-theme-mini
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
 defaultContentLanguage: zh
 hasCJKLanguage: true
+minify: true
 permalinks:
   posts: /posts/:title/
 
@@ -74,8 +75,6 @@ params:
     ## e.g.
     # - name: Project
     #   path: /project
-     - name: 友链
-       path: /friends
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
