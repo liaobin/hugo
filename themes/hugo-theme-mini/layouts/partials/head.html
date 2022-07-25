@@ -7,7 +7,8 @@
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
   <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
 {{ else }}
-  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  /* <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">*/
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
 {{ end }}
 
 <link rel="stylesheet" href="{{ "/css/style.css?v=1.5" | relURL }}">
